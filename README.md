@@ -1,2 +1,2 @@
 # cpptutorials
-My c plus cplus tutorials
+My c++ tutorials
